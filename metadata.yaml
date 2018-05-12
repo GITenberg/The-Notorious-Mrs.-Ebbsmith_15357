@@ -1,0 +1,35 @@
+_repo: The-Notorious-Mrs.-Ebbsmith_15357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinero, Arthur Wing
+    aliases:
+    - Pinero, Sir Arthur Wing
+    - Pinero, Arthur W. (Arthur Wing)
+    - Pinero, A. W. (Arthur Wing)
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '6013'
+    url: http://www.gutenberg.org/2009/agents/6013
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
+description: ''
+gutenberg_issued: '2005-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions -- 19th century -- Drama'
+- !lcsh 'Adultery -- Drama'
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+title: The Notorious Mrs. Ebbsmith
+url: http://www.gutenberg.org/ebooks/15357
